@@ -1,0 +1,32 @@
+{
+  "name": "node_restful_api",
+  "version": "1.0.0",
+  "description": "restful api using nodejs and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuber1077/node_restful_api.git"
+  },
+  "keywords": [
+    "restuful",
+    "api",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "zuber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuber1077/node_restful_api/issues"
+  },
+  "homepage": "https://github.com/zuber1077/node_restful_api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11",
+    "morgan": "^1.9.1"
+  }
+}
